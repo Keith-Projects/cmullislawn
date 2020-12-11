@@ -1,0 +1,48 @@
+{
+    "title": "cmullislawn",
+    "name": "CMullisLawn",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "Lawn Maintenance and Land clearing business located in Palatka Florida.",
+    "keywords": [
+        "lawn maintenance",
+        "land clearing florida",
+        "lawn care",
+        "Putnam County Florida",
+        "Palatka Florida",
+        "Lawn care in palatka florida",
+        "in Putnam County FL",
+        "Lawn Maintenance in Palatka Florida",
+        "Land clearing in Putnam County Florida",
+        "Lawn",
+        "Land clearing in palatka florida"
+    ],
+    "homepage": "http://www.cmullislawn.com",
+    "license": "MIT",
+    "author": "Keith Blackwelder",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "5.10.2",
+        "babel-cli": "^6.26.0",
+        "babel-preset-react-app": "^3.1.2",
+        "bootstrap": "^4.3.1",
+        "jquery": "^3.5.1",
+        "jquery.easing": "^1.4.1",
+        "magnific-popup": "^1.1.0",
+        "popper.js": "^1.16.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "7.0.0",
+        "gulp-clean-css": "4.2.0",
+        "gulp-header": "2.0.9",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.2",
+        "gulp-uglify": "3.0.2",
+        "merge-stream": "2.0.0"
+    }
+}
